@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="petal" x1="26" y1="18" x2="105" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B77C87"/>
+      <stop offset="1" stop-color="#704453"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="43" y1="70" x2="86" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9EAA89"/>
+      <stop offset="1" stop-color="#687960"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="61" fill="#F4EAE4"/>
+  <circle cx="64" cy="64" r="56" stroke="#D9C2B9" stroke-width="1.5"/>
+  <path d="M63.9 57.3C43 43.2 47.9 24.1 63.9 14c16 10.1 20.9 29.2 0 43.3Z" fill="url(#petal)"/>
+  <path d="M69.7 62.4c5.4-25 24.5-27.1 39.6-17.6-2.4 18.8-18.5 30.7-39.6 17.6Z" fill="url(#petal)"/>
+  <path d="M67.4 70.1c24.7 6.4 26 25.6 15.8 40.2-18.7-3.2-29.8-19.9-15.8-40.2Z" fill="url(#petal)"/>
+  <path d="M59.2 69.7c-7.2 24.4-26.4 25.2-40.6 14.5 3.8-18.6 20.8-29.1 40.6-14.5Z" fill="url(#petal)"/>
+  <path d="M56.2 61.8C31.4 56.8 29 37.7 38.4 22.5c18.9 2.1 30.9 18.2 17.8 39.3Z" fill="url(#petal)"/>
+  <circle cx="63.7" cy="63.4" r="10.3" fill="#E6C892"/>
+  <path d="M64 72v37" stroke="#687960" stroke-linecap="round" stroke-width="4"/>
+  <path d="M63 91c-17-15-27-11-29-3 8 11 18 14 29 10M65 100c13-14 24-13 29-6-5 11-15 16-29 13" fill="url(#leaf)" stroke="#687960" stroke-linejoin="round" stroke-width="2"/>
+</svg>

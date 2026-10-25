@@ -1,0 +1,54 @@
+{
+  "status": "draft",
+  "source_note": "Original sample assortment. Inspired only by broad categories and price ranges; not copied product copy or photos.",
+  "items": [
+    {
+      "title": "Тёплый рассвет",
+      "description": "Нежное сочетание розовых роз и сезонных цветов в светлой упаковке.",
+      "category": "Авторские букеты",
+      "suggested_price_rub": 2750,
+      "stock": null,
+      "image_url": ""
+    },
+    {
+      "title": "Лиловая акварель",
+      "description": "Лёгкий букет в сиреневых оттенках с фактурной зеленью.",
+      "category": "Авторские букеты",
+      "suggested_price_rub": 3250,
+      "stock": null,
+      "image_url": ""
+    },
+    {
+      "title": "Белый комплимент",
+      "description": "Светлые цветы и свежая зелень — лаконичный подарок без повода.",
+      "category": "Сезонные букеты",
+      "suggested_price_rub": 2950,
+      "stock": null,
+      "image_url": ""
+    },
+    {
+      "title": "Солнечный день",
+      "description": "Жёлтые и кремовые сезонные цветы в ярком, но сбалансированном оформлении.",
+      "category": "Сезонные букеты",
+      "suggested_price_rub": 3450,
+      "stock": null,
+      "image_url": ""
+    },
+    {
+      "title": "Розовый акцент",
+      "description": "Выразительный букет в розовой гамме с несколькими видами цветов.",
+      "category": "Микс-букеты",
+      "suggested_price_rub": 3850,
+      "stock": null,
+      "image_url": ""
+    },
+    {
+      "title": "Ягодный вечер",
+      "description": "Глубокие малиновые и бордовые оттенки для яркого поздравления.",
+      "category": "Микс-букеты",
+      "suggested_price_rub": 4250,
+      "stock": null,
+      "image_url": ""
+    }
+  ]
+}

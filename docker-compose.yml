@@ -1,0 +1,40 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: flower
+      POSTGRES_USER: flower
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U flower -d flower"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  backend:
+    build: ./backend
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://flower:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@db:5432/flower
+    depends_on:
+      db:
+        condition: service_healthy
+    ports: ["127.0.0.1:8000:8000"]
+  bot:
+    build: ./backend
+    command: ["python", "-m", "app.bot"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://flower:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@db:5432/flower
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+  frontend:
+    build: ./frontend
+    environment:
+      VITE_API_PROXY_TARGET: http://backend:8000
+    depends_on: [backend]
+    ports: ["127.0.0.1:5173:8080"]
+volumes:
+  pgdata:

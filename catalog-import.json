@@ -1,0 +1,1228 @@
+{
+    "source":  "https://event-flower.ru/catalog",
+    "extracted_at":  "2026-10-11T03:03:11.6384784-03:00",
+    "tabs":  [
+                 "Хиты",
+                 "Акции",
+                 "Премиум",
+                 "Розы",
+                 "Монобукеты",
+                 "Сборные букеты",
+                 "Композиции",
+                 "Свадебные букеты",
+                 "Вазы",
+                 "Шары",
+                 "1 сентября"
+             ],
+    "stock_policy":  "Set to 0 until the owner confirms inventory",
+    "items":  [
+                  {
+                      "source_id":  "335266739463",
+                      "title":  "Кустовые хризантемы",
+                      "description":  "Букет из 5 хризантем под ленту - 1500 Букет из 7 хризантем под ленту - 2080 Букет из 9 хризантем под ленту - 2660 Букет из 11 хризантем под ленту - 3240 Букет из 15 хризантем под ленту - 3800 Цвет хризантем под ваш запрос (белые, розовые, лавандовые)",
+                      "price_rub":  350,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/335266739463-kustovie-hrizantemi",
+                      "image_url":  "https://static.tildacdn.com/stor3338-6431-4364-b164-336235623734/5e51dd31ce630855b919f5a5012b2a45.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "727714233783",
+                      "title":  "Альстромерии",
+                      "description":  "Букет из 5 альстромерий в упаковке - 2100 Букет из 7 альстромерий в упаковке - 2800 Букет из 9 альстромерий в упаковке - 3500 Букет из 11 альстромерий в упаковке - 4200 Букет из 15 альстромерий в упаковке - 5600",
+                      "price_rub":  350,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/727714233783-alstromerii",
+                      "image_url":  "https://static.tildacdn.com/stor6437-3464-4832-b965-393862613462/ede0881672626fe67414f04c11ff8b80.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Монобукеты",
+                                         "1 сентября"
+                                     ]
+                  },
+                  {
+                      "source_id":  "569942441653",
+                      "title":  "Алые розы",
+                      "description":  "Букет из 5 роз в упаковке - 2150 Букет из 7 роз в упаковке - 2870 Букет из 9 роз в упаковке - 3590 Букет из 11 роз в упаковке - 4310 Букет из 15 роз в упаковке - 5030",
+                      "price_rub":  400,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/569942441653-alie-rozi",
+                      "image_url":  "https://static.tildacdn.com/stor6664-6239-4162-b232-613937333361/bd7fcf4d8d2c1e0fb56d8e1ee5407069.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Розы",
+                                         "Монобукеты",
+                                         "1 сентября"
+                                     ]
+                  },
+                  {
+                      "source_id":  "435460340993",
+                      "title":  "Пионовидные карамельные розы",
+                      "description":  "Букет из 5 роз под ленту - 2300 Букет из 7 роз под ленту - 3200 Букет из 9 роз под ленту - 4100 Букет из 11 роз под ленту - 5000 Букет из 15 роз под ленту - 5900",
+                      "price_rub":  450,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/435460340993-pionovidnie-karamelnie-rozi",
+                      "image_url":  "https://static.tildacdn.com/stor3336-3663-4933-b563-393264383966/0bafdfbd7d90585207c60812da3da41a.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "669671341583",
+                      "title":  "Монобукет из белых хризантем",
+                      "description":  "Букет из кустовых хризантем в упаковке - 5 шт",
+                      "price_rub":  2100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/669671341583-monobuket-iz-belih-hrizantem",
+                      "image_url":  "https://static.tildacdn.com/stor6634-3963-4436-b664-363537626564/949a4da8ddbc6399e22f65184c5ead28.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "789181105962",
+                      "title":  "Букет из 5 лиловых хризантем",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  2100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/789181105962-buket-iz-5-lilovih-hrizantem",
+                      "image_url":  "https://static.tildacdn.com/stor3634-3032-4861-a262-323332343636/305493a52bd0b8bc8d60ae99fddbd91b.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "751254672153",
+                      "title":  "Букет \"Сиреневый вечер\"",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  2350,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/751254672153-buket-sirenevii-vecher",
+                      "image_url":  "https://static.tildacdn.com/stor6638-3432-4138-a432-363963353937/71b72b7c7fd4edc1dc943766835b1bf9.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "147660487232",
+                      "title":  "Букет \"Балерина\"",
+                      "description":  "Букет из кустовой хризантемы, кустовых диантусов и эвкалипта.",
+                      "price_rub":  2450,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/147660487232-buket-balerina",
+                      "image_url":  "https://static.tildacdn.com/stor3136-6437-4533-b533-316165313632/7e7b1b6de4a904e5c7e949c7eef924fb.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "325770866802",
+                      "title":  "Букет из 7 нежно розовых хризантем",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  2800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/325770866802-buket-iz-7-nezhno-rozovih-hrizantem",
+                      "image_url":  "https://static.tildacdn.com/stor6332-3730-4638-b033-326462663536/72510d7eaf8db2278a3398f25baed9da.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "984419217312",
+                      "title":  "Букет из 7 хризантем",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  2800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/984419217312-buket-iz-7-hrizantem",
+                      "image_url":  "https://static.tildacdn.com/stor3038-6262-4033-b761-366363653139/ff4fe6bea2068f4014e8dea3480b4cef.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "714313743913",
+                      "title":  "Букет из 15 кустовых гвоздик",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  3100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/714313743913-buket-iz-15-kustovih-gvozdik",
+                      "image_url":  "https://static.tildacdn.com/stor6530-3534-4138-b233-373537383134/87133ea6969c179588e4ed24bd674501.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "798234251293",
+                      "title":  "Букет из 15 сортовых гвоздик",
+                      "description":  "Букет из 15 гвоздик - 2600 вместо - 3100 Букет из 17 гвоздик - 2900 вместо 3410 К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  3100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/798234251293-buket-iz-15-sortovih-gvozdik",
+                      "image_url":  "https://static.tildacdn.com/stor6665-6637-4237-a362-343562373830/1a72aab8635d872baf4f015079543067.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "687047984752",
+                      "title":  "Букет из хризантем и мелкой ромашки",
+                      "description":  "Букет из 5 кустовых хризантем Алтай и 2 матрикарий",
+                      "price_rub":  3100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/687047984752-buket-iz-hrizantem-i-melkoi-romashki",
+                      "image_url":  "https://static.tildacdn.com/stor3231-3963-4237-a463-323637353964/a1b1aa58b383edc46201efc40d69c288.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "696094740003",
+                      "title":  "Букет с хризантемами и ромашками",
+                      "description":  "Сборный букет из 4 кустовых хризантем и 5 мелких кустовых ромашек",
+                      "price_rub":  3000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/696094740003-buket-s-hrizantemami-i-romashkami",
+                      "image_url":  "https://static.tildacdn.com/stor3866-3737-4235-a433-323264633730/fc8cc82fcf29dd502de618cb91d4bdae.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "964040077092",
+                      "title":  "Букет с хризантемами и диантусами",
+                      "description":  "Сборный букет из кустовых хризантем 4 шт и 7 сортовых диантусов",
+                      "price_rub":  3410,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/964040077092-buket-s-hrizantemami-i-diantusami",
+                      "image_url":  "https://static.tildacdn.com/stor3132-3765-4266-a563-346436613037/9779ac492e0cd0822b7a42be31cb5be8.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "333728273542",
+                      "title":  "Букет с диантусами и эвколиптом",
+                      "description":  "Нежный букет с нежными сортовыми диантусами 11 шт и зеленью эвкалипта.",
+                      "price_rub":  2780,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/333728273542-buket-s-diantusami-i-evkoliptom",
+                      "image_url":  "https://static.tildacdn.com/stor6536-3832-4466-b030-323062633132/8561e4466bc0b50f31d7ebc6c109300d.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "168176076552",
+                      "title":  "Букет в шляпной коробке с диантусами и эвкалиптом",
+                      "description":  "Сборный букет из диантусов микс в шляпной коробочке на оазисе с добавлением зелени эвкалипта",
+                      "price_rub":  2780,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/168176076552-buket-v-shlyapnoi-korobke-s-diantusami-i",
+                      "image_url":  "https://static.tildacdn.com/stor6531-3331-4633-b361-366530626664/f0852dc339bd8d73b87400188d06c452.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "270056526963",
+                      "title":  "Букет \"Летний\"",
+                      "description":  "Сборный букет из кустовых хризантем, кустовых пионовидных роз и кустовых гвоздик в упаковке.",
+                      "price_rub":  2790,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/270056526963-buket-letnii",
+                      "image_url":  "https://static.tildacdn.com/stor3032-6536-4338-b665-306339663532/522a78d9dd85db4adaf4c625a39072b0.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "987875188442",
+                      "title":  "Букет из цветных хризантем 9 шт",
+                      "description":  "",
+                      "price_rub":  3500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/987875188442-buket-iz-tsvetnih-hrizantem-9-sht",
+                      "image_url":  "https://static.tildacdn.com/stor3936-3431-4566-a361-323736393133/03e234536d726cade8f835aecb7a96f1.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "149360269122",
+                      "title":  "Композиция в шляпной коробочке с диантусами и эустомой",
+                      "description":  "Шляпная коробочка с диантусами, эустомой и эвкалиптом на оазисе",
+                      "price_rub":  3000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/149360269122-kompozitsiya-v-shlyapnoi-korobochke-s-di",
+                      "image_url":  "https://static.tildacdn.com/stor3239-6336-4134-b432-303066303563/66ee3382dcc3c2ec5a2cf57fb2a10ddd.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "104887001512",
+                      "title":  "Букет \"Каприз\"",
+                      "description":  "Можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  3000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/104887001512-buket-kapriz",
+                      "image_url":  "https://static.tildacdn.com/stor6265-3932-4532-b165-356466313539/7a81fb3c339f6d4cde05eb2652e19901.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "719088670762",
+                      "title":  "Монобукет из французских роз",
+                      "description":  "7 французских роз сорта Нина в лёгкой полуматовой упаковке",
+                      "price_rub":  3150,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/719088670762-monobuket-iz-frantsuzskih-roz",
+                      "image_url":  "https://static.tildacdn.com/stor6136-3465-4137-a533-353862313337/188265b79e8af38907408f7617cf7b31.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "152549316742",
+                      "title":  "Нежный букет с пионовидными розами и маттиолой",
+                      "description":  "Состав: розы кустовые пионовидные, хризантема кустовая, гвоздика, маттиола",
+                      "price_rub":  3100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/152549316742-nezhnii-buket-s-pionovidnimi-rozami-i-ma",
+                      "image_url":  "https://static.tildacdn.com/stor6531-3933-4663-a338-656330336565/bdb435befc248a4f13cb2538d6924486.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "110913458832",
+                      "title":  "Букет \"Клубничное мороженное\"",
+                      "description":  "Состав: кустовые розы, хризантемы, альстромерии, гвоздики",
+                      "price_rub":  3200,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/110913458832-buket-klubnichnoe-morozhennoe",
+                      "image_url":  "https://static.tildacdn.com/stor3935-6230-4539-a465-353932306562/39a2b392a9de68cc87884f2cdd2f2743.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "143531757212",
+                      "title":  "Букет \"Невинность\"",
+                      "description":  "Состав: розы хризантемы, кустовая гвоздика, диантусы, упаковка",
+                      "price_rub":  3190,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/143531757212-buket-nevinnost",
+                      "image_url":  "https://static.tildacdn.com/stor3166-6266-4935-a239-646339313838/29b425d9d6ffd3b25366f203142de6db.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "852300838672",
+                      "title":  "Кустовые пионовидные розы под ленту",
+                      "description":  "Состав: розы кустовые пионовидные - 5 шт, лента",
+                      "price_rub":  3300,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/852300838672-kustovie-pionovidnie-rozi-pod-lentu",
+                      "image_url":  "https://static.tildacdn.com/stor6664-3461-4463-b064-653562373831/423d8c9d57219b5d1932f06664dcc4cc.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Розы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "636380580712",
+                      "title":  "Нежный букет с пионовидными розами",
+                      "description":  "Состав: розы кустовые пионовидные, хризантема кустовая, гвоздика, эустома",
+                      "price_rub":  3350,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/636380580712-nezhnii-buket-s-pionovidnimi-rozami",
+                      "image_url":  "https://static.tildacdn.com/stor6432-3863-4534-a631-633133373464/286299424b16d6c9b2e6ec933fcd11a1.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "419122743432",
+                      "title":  "Букет \"Малиновый раф\"",
+                      "description":  "Состав: пионовидные кустовые розы, кустовые хризантемы, альстромерии, гвоздики",
+                      "price_rub":  3450,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/419122743432-buket-malinovii-raf",
+                      "image_url":  "https://static.tildacdn.com/stor3863-3966-4936-b066-656136626363/1d6ad6a2fa6c3f66aa24e2cf0259a068.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "691929801752",
+                      "title":  "Букет \"Гармония\"",
+                      "description":  "Также можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  3450,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/691929801752-buket-garmoniya",
+                      "image_url":  "https://static.tildacdn.com/stor6661-3537-4939-a138-653534616334/1b8b2f6caa6013fb2b96ba577b3b1756.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "928547269032",
+                      "title":  "Букет \"Счастливый момент\"",
+                      "description":  "Нежнейший букет с пионовидными кустовыми розочками, белой хризантемой , эустомой и диантусами. Также можно заказать к букету коробку переноску и аквабокс с водой +550",
+                      "price_rub":  3550,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/928547269032-buket-schastlivii-moment",
+                      "image_url":  "https://static.tildacdn.com/stor3362-6330-4463-b961-313737613134/78d73a831799011ca8f9af1affae9d89.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "545668819462",
+                      "title":  "Букет \"Счастливый день\"",
+                      "description":  "Состав: пионовидные кустовые розы, кустовые хризантемы, эустома, гвоздики, маттиола, эвкалипт",
+                      "price_rub":  3690,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/545668819462-buket-schastlivii-den",
+                      "image_url":  "https://static.tildacdn.com/stor6537-3130-4162-b766-393061363238/4ba986d06c3d6e945f37a919ed6614d9.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "285102407322",
+                      "title":  "Композиция в шляпной коробочке с макарунами",
+                      "description":  "",
+                      "price_rub":  3500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/285102407322-kompozitsiya-v-shlyapnoi-korobochke-s-ma",
+                      "image_url":  "https://static.tildacdn.com/stor6263-3930-4661-a431-316330346638/661520dad4f3f08878811c91a92765f8.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "196819463203",
+                      "title":  "Композиция в шляпной коробочке с конфетами",
+                      "description":  "",
+                      "price_rub":  3500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/196819463203-kompozitsiya-v-shlyapnoi-korobochke-s-ko",
+                      "image_url":  "https://static.tildacdn.com/stor3630-6239-4361-b264-343233363338/8c94197fcb8ed444279360166af18cf5.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "535234737482",
+                      "title":  "Букет в шляпной коробке с интерьерной свечей",
+                      "description":  "Нежная цветочная композиция в коробочке с крышкой и с интерьерной свечей. Аромат предварительно нужно будет согласовать",
+                      "price_rub":  3500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/535234737482-buket-v-shlyapnoi-korobke-s-interernoi-s",
+                      "image_url":  "https://static.tildacdn.com/stor6335-3465-4232-b931-303930646635/0b42ee8b5d368bab19568a6f30a8e4ab.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Сборные букеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "644576365702",
+                      "title":  "Букет с нежными диантусами",
+                      "description":  "Состав: 17 диантусов, эвкалипт ветка, упаковка",
+                      "price_rub":  3760,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/644576365702-buket-s-nezhnimi-diantusami",
+                      "image_url":  "https://static.tildacdn.com/stor6465-6236-4464-a634-396333663637/b47f8a8ceeb58cbdc00a7124e52788a2.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "154910903832",
+                      "title":  "Букет \"Свидание\"",
+                      "description":  "Можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  3850,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/154910903832-buket-svidanie",
+                      "image_url":  "https://static.tildacdn.com/stor6563-3633-4339-a437-326533643739/0ddd1c1693f1e7641a64bd6ce32f75ac.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "767976687302",
+                      "title":  "Букет \"Сиреневый туман\"",
+                      "description":  "Состав: кустовые хризантемы, диантусы, эвкалипт, упаковка",
+                      "price_rub":  3850,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/767976687302-buket-sirenevii-tuman",
+                      "image_url":  "https://static.tildacdn.com/stor6237-3137-4663-b630-386562353333/0c4b70816ea6ff9d3437f6c65eef4429.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "623658655632",
+                      "title":  "Букет \"Розовое вино\"",
+                      "description":  "Состав: кустовые розочки, диантусы, хризантема кустовая, эвкалипт, упаковка",
+                      "price_rub":  3850,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/623658655632-buket-rozovoe-vino",
+                      "image_url":  "https://static.tildacdn.com/stor6166-3832-4334-a135-613238343264/1c39bd0204d25dd950c9e1578559c6c3.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "724442789552",
+                      "title":  "Букет \"Моя прелесть\"",
+                      "description":  "Состав: кустовые розочки, диантусы, эвкалипт, упаковка",
+                      "price_rub":  3950,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/724442789552-buket-moya-prelest",
+                      "image_url":  "https://static.tildacdn.com/stor3661-6363-4733-a331-633665666165/afef5bf73592742d5537fe86c2cee305.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "160480570322",
+                      "title":  "Букет в шляпной коробке с диантусами, эустомой и эвкалитом",
+                      "description":  "Сборный букет из диантусов и эустомы в шляпной коробочке на оазисе с добавлением зелени эвкалипта и статицы.",
+                      "price_rub":  3960,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/160480570322-buket-v-shlyapnoi-korobke-s-diantusami-e",
+                      "image_url":  "https://static.tildacdn.com/stor3765-3263-4661-a661-383761373562/7253dbb43612380bc28771e2f534af1a.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "376897732132",
+                      "title":  "Букет \"Теплая ночь\"",
+                      "description":  "Букет с одноголовой хризантемой, кустовыми розами и диантусами Также к букету можно добавить аквабокс с водой и коробку переноску +550 или фирменую открытку +100",
+                      "price_rub":  4250,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/376897732132-buket-teplaya-noch",
+                      "image_url":  "https://static.tildacdn.com/stor3238-6438-4933-a538-623836303265/831dd11e8db26caf250957380b7d9dd0.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "623202749742",
+                      "title":  "Букет \"Страсть\"",
+                      "description":  "Букет с одноголовой эквадорской розой, кустовыми пионовидными розами и диантусами Также к букету можно добавить аквабокс с водой и коробку переноску +550 или фирменую открытку +100",
+                      "price_rub":  4100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/623202749742-buket-strast",
+                      "image_url":  "https://static.tildacdn.com/stor6166-6330-4930-a530-343762666164/1803a8d69de9b2cba2202070435165bf.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "828963404862",
+                      "title":  "Букет \"Алтай\"",
+                      "description":  "Состав: хризантема кустовая \"Алтай\" - 15 шт в упаковке",
+                      "price_rub":  4100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/828963404862-buket-altai",
+                      "image_url":  "https://static.tildacdn.com/stor3130-3332-4339-a335-303531633137/4d042fe2adc0864f3139c0c73620e778.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Премиум",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "853427281543",
+                      "title":  "Букет \"Сиреневый Алтай\"",
+                      "description":  "Состав: хризантема кустовая \"Алтай\" - 15 шт в упаковке",
+                      "price_rub":  4100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/853427281543-buket-sirenevii-altai",
+                      "image_url":  "https://static.tildacdn.com/stor3630-3062-4237-a439-313361313330/f2c288611eec81b3b77744d6b0547791.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Акции",
+                                         "Премиум",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "194835591802",
+                      "title":  "Букет \"Фламинго\"",
+                      "description":  "Состав: кустовые розочки, диантусы, эвколипт, упаковка",
+                      "price_rub":  4470,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/194835591802-buket-flamingo",
+                      "image_url":  "https://static.tildacdn.com/stor6237-6164-4265-b235-626634623338/3b90f7caf809b932b33881432666a658.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "775113677222",
+                      "title":  "Букет \"Мохито\"",
+                      "description":  "Состав: хризантемы кустовые, роз кустовые, гвоздики, эустома, вероника, фисташка",
+                      "price_rub":  4500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/775113677222-buket-mohito",
+                      "image_url":  "https://static.tildacdn.com/stor3635-3231-4733-b934-623233356136/f1a5dafe4e9bf1df2b904e1512c16a44.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "639320004802",
+                      "title":  "Шляпная коробка с макарунами и цветами",
+                      "description":  "Состав: микс из цветов, макаруны",
+                      "price_rub":  4500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/639320004802-shlyapnaya-korobka-s-makarunami-i-tsveta",
+                      "image_url":  "https://static.tildacdn.com/stor3532-6333-4263-a635-636463366361/08291c69b030a660749444c40e763298.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "216345809802",
+                      "title":  "Букет \"Розовый раф\"",
+                      "description":  "Состав: кустовые розочки, диантусы, одноголовые розы, альстромерии, озотамнус, лазар стабилизированный, упаковка",
+                      "price_rub":  4550,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/216345809802-buket-rozovii-raf",
+                      "image_url":  "https://static.tildacdn.com/stor3161-6166-4962-a438-313331356532/95ade9e7c399c7788e34e50fd7234a8a.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "818254311842",
+                      "title":  "Букет с одноголовыми хризантемами \"Бигуди\"",
+                      "description":  "Состав: Хризантемы \"Бигуди\", гвоздики, пионовидные кустовые розы, эвкалипт",
+                      "price_rub":  4650,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/818254311842-buket-s-odnogolovimi-hrizantemami-bigudi",
+                      "image_url":  "https://static.tildacdn.com/stor6531-6561-4539-b132-386231303637/e6ca20aee3919bf076f609e88dbc8af7.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "116896369162",
+                      "title":  "Букет \"Малиновое фраппэ\"",
+                      "description":  "Состав: кустовые розочки, диантусы, альстромерии, упаковка",
+                      "price_rub":  5000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/116896369162-buket-malinovoe-frappe",
+                      "image_url":  "https://static.tildacdn.com/stor3032-3938-4263-b335-633035393061/b6fba4d316bf9b9f8f294e038fb3a8f7.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "793689327723",
+                      "title":  "Букет \"Это по любви\"",
+                      "description":  "К букету также можем добавить аквабокс и коробку переноску +550",
+                      "price_rub":  5000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/793689327723-buket-eto-po-lyubvi",
+                      "image_url":  "https://static.tildacdn.com/stor6533-3562-4861-b066-653532343533/f0d2a32be53d424d257e2637a45fb2e0.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "615753211272",
+                      "title":  "Шляпная коробка с кружевными розами",
+                      "description":  "9 кружевных алых роз в стильной шляпной коробочке",
+                      "price_rub":  5000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/615753211272-shlyapnaya-korobka-s-kruzhevnimi-rozami",
+                      "image_url":  "https://static.tildacdn.com/stor6530-6138-4136-b233-636335646561/81dd9a2e5282063691d17790021ba29f.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "865742087902",
+                      "title":  "Букет \"Пламя\"",
+                      "description":  "Состав: 11 эквадорских роз, эустома, упаковка",
+                      "price_rub":  5250,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/865742087902-buket-plamya",
+                      "image_url":  "https://static.tildacdn.com/stor6133-3736-4532-a566-333164623766/6e1bc5a216a3aadded7a25bd3d55c5ab.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "930020054692",
+                      "title":  "Букет \"Королева бала\"",
+                      "description":  "Состав: гортензии, диантусы, альстромерии, эустома, упаковка",
+                      "price_rub":  5610,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/930020054692-buket-koroleva-bala",
+                      "image_url":  "https://static.tildacdn.com/stor3465-6165-4639-b362-386132386336/7d0e79b0b59b37d7de67e951c056633e.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "400104188372",
+                      "title":  "Букет \"Карамель\"",
+                      "description":  "Букет из белых роз сорта Канделайт с зеленью эвкалипта. Также к букету можно добавить коробку переноску +550",
+                      "price_rub":  6050,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/400104188372-buket-karamel",
+                      "image_url":  "https://static.tildacdn.com/stor6137-3261-4232-b533-633462626265/460b962b3f3f6685fa9a654aaeebbbf6.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "955131071883",
+                      "title":  "Альстромерии в коробочке",
+                      "description":  "Яркий букет из альстромерий микс - 15 шт",
+                      "price_rub":  6150,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/955131071883-alstromerii-v-korobochke",
+                      "image_url":  "https://static.tildacdn.com/stor6130-3863-4933-b338-366263646564/c9d3dec7aa93143447093cd9ac83bbb1.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Монобукеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "851236898022",
+                      "title":  "Корзина с кустовыми розочками",
+                      "description":  "Состав: корзина с белыми кустовыми розочками и эвкалиптом, оазис",
+                      "price_rub":  6500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/851236898022-korzina-s-kustovimi-rozochkami",
+                      "image_url":  "https://static.tildacdn.com/stor3366-3064-4034-b332-363336383539/40b5db6c8f66ad36dbcf6d1521fc1292.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "965670873542",
+                      "title":  "Букет \"Ягодный сад\"",
+                      "description":  "Можно добавить аквабокс и транспортировочную коробку +550р",
+                      "price_rub":  6800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/965670873542-buket-yagodnii-sad",
+                      "image_url":  "https://static.tildacdn.com/stor3333-3635-4332-b735-326638336235/299701ee2e66b3ab6375d16434bbc4c6.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "326536975843",
+                      "title":  "Букет \"Роскошный максимум\"",
+                      "description":  "Можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  7000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/326536975843-buket-roskoshnii-maksimum",
+                      "image_url":  "https://static.tildacdn.com/stor3634-3934-4834-a661-363535656463/6a752b971393cc3fd29c348e2c1e9f8a.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "811911400732",
+                      "title":  "Букет \"Белые ночи\"",
+                      "description":  "Букет из белых роз сорта Плая бланка с зеленью эвкалипта. Также к букету можно добавить коробку переноску +550",
+                      "price_rub":  7550,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/811911400732-buket-belie-nochi",
+                      "image_url":  "https://static.tildacdn.com/stor3361-3635-4132-b635-623966613262/cd93bc8ffdd22eecc853ca2ea8a0857c.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "768160009202",
+                      "title":  "Букет в шляпной коробке \"Белый микс\"",
+                      "description":  "Состав: кустовые хризантемы, эустома, одноголовые розы, альстромерии, фисташка, эвкалипт, шляпная коробка, оазис, ленты",
+                      "price_rub":  7800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/768160009202-buket-v-shlyapnoi-korobke-belii-miks",
+                      "image_url":  "https://static.tildacdn.com/stor3431-6363-4536-b763-356562653532/6e7446435c79685a2b88b5bd4c54b82c.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "949646807742",
+                      "title":  "Корзина с цветами (размер L)",
+                      "description":  "Состав: корзина плетеная, оазис, кустовые хризантемы, кустовые пионовидные розы, маттиола, диантусы, эвкалипт, одноголовые розы, ленты",
+                      "price_rub":  8500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/949646807742-korzina-s-tsvetami-razmer-l",
+                      "image_url":  "https://static.tildacdn.com/stor6436-3864-4931-b038-303461633437/aedf1c7322cc6aea9fcc4bbb9553bce4.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "512066486122",
+                      "title":  "Шляпная коробка с алыми розами",
+                      "description":  "17 роз сорта Нина в шляпной коробочке",
+                      "price_rub":  8700,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/512066486122-shlyapnaya-korobka-s-alimi-rozami",
+                      "image_url":  "https://static.tildacdn.com/stor3730-6335-4161-a537-313335343430/fdea6d4cb498e0f6fe644b15baae2440.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Розы",
+                                         "Монобукеты",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "405406558132",
+                      "title":  "Букет \"Вечерняя заря\"",
+                      "description":  "Можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  9100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/405406558132-buket-vechernyaya-zarya",
+                      "image_url":  "https://static.tildacdn.com/stor3963-3234-4665-a633-333235653833/37ca2f8234e141b4413a17c610d037e6.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "237189808233",
+                      "title":  "Корзина с ромашками",
+                      "description":  "Состав: корзина плетеная, оазис, кустовые хризантемы, кустовые мелкие ромашки, ленты",
+                      "price_rub":  10000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/237189808233-korzina-s-romashkami",
+                      "image_url":  "https://static.tildacdn.com/stor3739-6639-4533-b566-383933373364/581a6c76c39765a8fc9616dff3cb7013.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "103993298823",
+                      "title":  "Букет \"Счасть есть\"",
+                      "description":  "Сезонные цветы и зелень можно будет по согласованию заменить. К букету можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  12000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/103993298823-buket-schast-est",
+                      "image_url":  "https://static.tildacdn.com/stor3531-6236-4434-b461-666634343232/0478ccef9cbc7798b15158add26cb693.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "834856114433",
+                      "title":  "Букет \"Ты мой номер один\"",
+                      "description":  "Сезонные цветы и зелень можно будет по согласованию заменить. К букету можно добавить аквабокс и коробку переноску +550р",
+                      "price_rub":  15000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/834856114433-buket-ti-moi-nomer-odin",
+                      "image_url":  "https://static.tildacdn.com/stor6631-3838-4738-b262-396439333937/bb259c342fb23c27d938d23d91bc5e73.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Сборные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "143682391402",
+                      "title":  "35 белых роз в черной шляпной коробке",
+                      "description":  "Состав: 35 роз сорта \"Плая бланка\". оазис, шляпная коробка, ленты",
+                      "price_rub":  16500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/143682391402-35-belih-roz-v-chernoi-shlyapnoi-korobke",
+                      "image_url":  "https://static.tildacdn.com/stor3534-3963-4562-b066-333365363764/36b5d08fb3d9a1fd1c34634d8155c73a.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Розы",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "123207605932",
+                      "title":  "Букет из 51 красной розы",
+                      "description":  "Состав: одноголовые розы 51 шт (Эквадор), упаковка, ленты",
+                      "price_rub":  22500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/123207605932-buket-iz-51-krasnoi-rozi",
+                      "image_url":  "https://static.tildacdn.com/stor3030-3261-4865-b936-373434343539/8151f25c1d72a2a543a5f926c265b265.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Премиум",
+                                         "Розы",
+                                         "Монобукеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "681283318762",
+                      "title":  "Корзина 101 пионовидная роза",
+                      "description":  "Корзина с пионовидными премиальными розами сорта Кенделайт",
+                      "price_rub":  44000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/681283318762-korzina-101-pionovidnaya-roza",
+                      "image_url":  "https://static.tildacdn.com/stor3465-6432-4237-a566-613662393863/a79a848df85b54427838c0638ccbef65.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Хиты",
+                                         "Премиум",
+                                         "Композиции"
+                                     ]
+                  },
+                  {
+                      "source_id":  "212051161322",
+                      "title":  "Композиция из 3 фольгированных шаров сердец",
+                      "description":  "Фольгированные шары сердца 30 см с грузиком",
+                      "price_rub":  1100,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/212051161322-kompozitsiya-iz-3-folgirovannih-sharov-s",
+                      "image_url":  "https://static.tildacdn.com/stor6662-3230-4663-a139-653961323862/4288a3cd9b8ec09d881cea1a2f70ab2f.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Шары"
+                                     ]
+                  },
+                  {
+                      "source_id":  "604595036372",
+                      "title":  "Композиция из 5 фольгированных шаров сердец",
+                      "description":  "Фольгированные шары сердца 30 см с грузиком",
+                      "price_rub":  1800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/604595036372-kompozitsiya-iz-5-folgirovannih-sharov-s",
+                      "image_url":  "https://static.tildacdn.com/stor6162-3862-4466-b432-333063623164/24b4ec39b0785d2e5c629330ee1cc1c2.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Шары"
+                                     ]
+                  },
+                  {
+                      "source_id":  "633083746162",
+                      "title":  "Композиция из 7 фольгированных шаров сердец",
+                      "description":  "Фольгированные шары сердца 30 см с грузиком",
+                      "price_rub":  2500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/633083746162-kompozitsiya-iz-7-folgirovannih-sharov-s",
+                      "image_url":  "https://static.tildacdn.com/stor3061-3563-4632-b637-643361343830/6a0eb12b3fd6063e3920751484727e0e.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Шары"
+                                     ]
+                  },
+                  {
+                      "source_id":  "423533424123",
+                      "title":  "Ваза \"Лед\"",
+                      "description":  "Стекло. Высота 20 см Диаметр горлышка 13,5 см",
+                      "price_rub":  500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/423533424123-vaza-led",
+                      "image_url":  "https://static.tildacdn.com/stor6265-3363-4264-a236-666166376330/0b5b7243ffbf3a3258b3281c54cc8bb6.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "951594414673",
+                      "title":  "Ваза \"Капли\" (прозрачный)",
+                      "description":  "Стекло. Высота 22,5 см Диаметр горлышка 12 см",
+                      "price_rub":  630,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/951594414673-vaza-kapli-prozrachnii",
+                      "image_url":  "https://static.tildacdn.com/stor3430-6263-4136-a237-303765363036/2373b7cc509a25b1e87f0bd19282dd22.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "579886338033",
+                      "title":  "Ваза \"Капли\" (серый)",
+                      "description":  "Стекло. Высота 22,5 см Диаметр горлышка 12 см",
+                      "price_rub":  850,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/579886338033-vaza-kapli-serii",
+                      "image_url":  "https://static.tildacdn.com/stor3966-3135-4233-b739-306137613232/c1d8f1e6cc50439482dbfa5b8121e9f9.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "311478030573",
+                      "title":  "Ваза \"Волна\"",
+                      "description":  "Стекло. Высота 27 см Диаметр горлышка 18 см",
+                      "price_rub":  1500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/311478030573-vaza-volna",
+                      "image_url":  "https://static.tildacdn.com/stor6263-3862-4736-a639-386664613639/59a61c3628ea590e97901122a856b080.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "684376656793",
+                      "title":  "Ваза \"Пузыри\" (прозрачная)",
+                      "description":  "Стекло. Высота 28 см Диаметр горлышка 13 см",
+                      "price_rub":  1800,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/684376656793-vaza-puziri-prozrachnaya",
+                      "image_url":  "https://static.tildacdn.com/stor3864-3162-4434-a466-373162643663/18964c1006d40dcdd2b0fcc49c6cccc1.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "295637278272",
+                      "title":  "Ваза \"Банка\"",
+                      "description":  "Стекло. Высота 20 см Диаметр горлышка 7 см",
+                      "price_rub":  1190,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/295637278272-vaza-banka",
+                      "image_url":  "https://static.tildacdn.com/stor3933-3539-4362-a462-366530383039/3eebfad04dd5b129a3899d10fcd513ad.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "551255835372",
+                      "title":  "Ваза \"Babel\"",
+                      "description":  "Стекло Высота 18 см Диаметр горлышка 9 см",
+                      "price_rub":  990,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/551255835372-vaza-babel",
+                      "image_url":  "https://static.tildacdn.com/stor3734-6237-4637-b964-343633656663/ba2ad32f5e981757dc8f9a68f3dd8943.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Вазы"
+                                     ]
+                  },
+                  {
+                      "source_id":  "801101273452",
+                      "title":  "Букет свадебный в бело-розовых оттенках \"Сама нежность\"",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  5000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/801101273452-buket-svadebnii-v-belo-rozovih-ottenkah",
+                      "image_url":  "https://static.tildacdn.com/stor6530-6334-4131-a261-313435633963/7dc3d9995353523a1b3183414a0864b0.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Свадебные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "697942368182",
+                      "title":  "Букет свадебный в белых оттенках \"Белый лебедь\"",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  6000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/697942368182-buket-svadebnii-v-belih-ottenkah-belii-l",
+                      "image_url":  "https://static.tildacdn.com/stor3661-3937-4231-b262-333465393964/3419a700da8de8949f83509bc014d4f0.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Свадебные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "481147330323",
+                      "title":  "Букет свадебный из белых диантусов",
+                      "description":  "Диантусы по согласованию можно заменить на другие цвета",
+                      "price_rub":  6000,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/481147330323-buket-svadebnii-iz-belih-diantusov",
+                      "image_url":  "https://static.tildacdn.com/stor3234-3863-4563-a337-636132353863/69f545a9ce6df367e391fbbffa93c3b8.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Свадебные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "178285896613",
+                      "title":  "Букет свадебный из розовых диантусов",
+                      "description":  "Диантусы по согласованию можно заменить на другие цвета",
+                      "price_rub":  4900,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/178285896613-buket-svadebnii-iz-rozovih-diantusov",
+                      "image_url":  "https://static.tildacdn.com/stor3266-3039-4137-b234-623438333931/17354482580e554eec24e26b272882db.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Свадебные букеты"
+                                     ]
+                  },
+                  {
+                      "source_id":  "469879093532",
+                      "title":  "Букет свадебный в белых оттенках \"Белоснежка\"",
+                      "description":  "К букету можно добавить аквабокс и коробку переноску +550₽",
+                      "price_rub":  6500,
+                      "old_price_rub":  null,
+                      "href":  "https://event-flower.ru/catalog/tproduct/469879093532-buket-svadebnii-v-belih-ottenkah-belosne",
+                      "image_url":  "https://static.tildacdn.com/stor3237-6136-4331-b538-653437616165/d753a5733d1280d61e70333ab2b33d1b.jpg",
+                      "background_image":  "",
+                      "categories":  [
+                                         "Свадебные букеты"
+                                     ]
+                  }
+              ]
+}
